@@ -1,0 +1,424 @@
+{
+    "hifsa123": {
+        "password_hash": "fdf5487fa458e60a7921aad5a33eb4572a09d8cdaf440bbe5c4531507907013e88b8f81b53773caa7cceead6490188a6b8da41dcfa29686bc89f6d44354c0219",
+        "fixed_password_hash": "23f652315f96f6eda96b962cd8f3a75fe6d524e17cabe03c8b022066a463e3d91a8cf5134b2c8f495bf53cdfa900a80ea93b304709e6d59a8e7d7c56f90ff841",
+        "security_question": "What was your first pet's name?",
+        "security_answer_hash": "24c7f34ab455f45d7446e47627794b3513f3aeda2107c088f6ba7c564f6f1cf61343a62bd705df53eab1145ef6fd4b7174f4d6074fab49bf7a775db99b8aaab3",
+        "created_at": "2025-12-10 16:32:43",
+        "last_login": "2025-12-10 16:37:16",
+        "login_attempts": 1,
+        "encryption_history": [],
+        "account_locked": false
+    },
+    "fatima11": {
+        "password_hash": "b00013a584f61b23c66b13910240e7237496ebedf71766558e69ebf4f28bb82f3f82e95cda67504303eb8f1568670ad3a1d04ad06b4b13a96c0b7e4b06bf42f7",
+        "fixed_password_hash": "ab8e1d247b259644f0b9f5c7896bc54aac245d4aeac12f61bd809571d868d6c36cbe73a18fa58284993d584f8635febd9fc67dc7a003dde64e8863a673153811",
+        "security_question": "What was your first pet's name?",
+        "security_answer_hash": "8927676513dd02da24f28e9404bcd8b915d419e241a03cf93240c1dc5d572d1e445ad5540ad8ac7aec48e02de6b27be07d2b1baa55c673b43127cb45c5e2eb0f",
+        "created_at": "2025-12-10 16:40:09",
+        "last_login": "2025-12-10 16:50:44",
+        "login_attempts": 0,
+        "encryption_history": [],
+        "account_locked": false
+    },
+    "fatima": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "fixed_password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "security_question": "What was your first pet's name?",
+        "security_answer": "cd6357efdd966de8c0cb2f876cc89ec74ce35f0968e11743987084bd42fb8944",
+        "created_at": "2025-12-10 17:06:18",
+        "last_login": "2025-12-10 17:06:43",
+        "login_attempts": 0,
+        "encryption_history": [
+            {
+                "image": "encrypted_new 2.jpg",
+                "random_password": "rL9#!K%oueLi3!gMvW0f",
+                "timestamp": "2025-12-10 17:07:22",
+                "original_size": 11489,
+                "encrypted_size": 86071,
+                "status": "Success"
+            },
+            {
+                "image": "encrypted_new 1.jpg",
+                "random_password": "u2AsXe8VwxApRCyOzQkB",
+                "timestamp": "2025-12-10 17:09:45",
+                "original_size": 8923,
+                "encrypted_size": 92119,
+                "status": "Success"
+            },
+            {
+                "image": "encrypted_new.jpg",
+                "random_password": "oaTDsf@9JiJTWqAm2Hws",
+                "timestamp": "2025-12-10 17:12:17",
+                "original_size": 4686,
+                "encrypted_size": 42353,
+                "status": "Success"
+            }
+        ],
+        "account_locked": false
+    },
+    "urooj11": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "fixed_password": "481f6cc0511143ccdd7e2d1b1b94faf0a700a8b49cd13922a70b5ae28acaa8c5",
+        "security_question": "What was your first pet's name?",
+        "security_answer": "1811bdd29f2cfe95e6e23402e2390fa1012708fc52ef8b8a29ee540b1c481534",
+        "created_at": "2025-12-10 17:25:03",
+        "last_login": "2025-12-10 17:25:38",
+        "login_attempts": 0,
+        "encryption_history": [
+            {
+                "image": "encrypted_pet.jpg",
+                "random_password": "PD3e9l#0ee0@Kx1YMr$S",
+                "timestamp": "2025-12-10 17:27:40",
+                "original_size": 8464,
+                "encrypted_size": 70337,
+                "status": "Success"
+            }
+        ],
+        "account_locked": false
+    },
+    "furqan": {
+        "password_hash": "743e0f90c0859070a2e56c7c452bd439c2e6711817bd0b2dbfea2affe251b5fca46eb8b5e0481dd08ff1c353152e89cd4bcd6a5da847ef272d8b86df58902a12",
+        "fixed_password_hash": "05c77bf3723b24282d0dce6ff3c426549c374fccda481c19eb294811f575ade8c4d70a6d2588228a6bb7cddeac7827aac4b3906fb47608a93012d502711e764e",
+        "security_question": "What city were you born in?",
+        "security_answer_hash": "aad657a97e2eb007d7ea08482bb030add529c2f264f99d61e13c0db052e0ac9bbffbb927c5fa7d7100f91c03ad2cc8bc844a5026b9248afb03f5f2e2d7ad7a38",
+        "created_at": "2025-12-11 14:26:48",
+        "last_login": "2025-12-11 15:03:42",
+        "login_attempts": 0,
+        "encryption_history": [],
+        "failed_attempts": 0,
+        "account_locked": false
+    },
+    "fatima12": {
+        "password_hash": "fba06bd55008c4a6ffa0d618db143424e65969d04b44f308974ae6fbc60e9a29dfbd474570385fb30c9c67a0fc528b75e38bad6b7b747c2f86f5c51bfed552ae",
+        "fixed_password_hash": "ee27b52655dc34574c4883663567ece199826e1aaee844edbc0df1f1fd35abf5739f8870fbc17ea903075d87f8099592aa6583d34cbe04ef349cb743a1a13530",
+        "security_question": "What was your first pet's name?",
+        "security_answer_hash": "45487083971e5ce22bcdcce70f2d39a4ba78d67db49aaaa5f75bb6a5b7890d5eeee15e251a9d5d5041cf7b6c96a48d78ee6503c5d50f8a75a1825740b91649c2",
+        "created_at": "2025-12-11 15:23:47",
+        "last_login": "2025-12-11 16:16:31",
+        "login_attempts": 0,
+        "encryption_history": [
+            {
+                "image": "hidd65.png",
+                "random_password": "dZhMWsLbywnBqgmWMT8R",
+                "timestamp": "2025-12-11 15:27:02",
+                "original_size": 4111294,
+                "encrypted_size": 23314792,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765448822.585267
+            },
+            {
+                "image": "encryptedfinal1.png",
+                "random_password": "sYqltdsNVR3tkOfMTxUs",
+                "timestamp": "2025-12-11 15:30:47",
+                "original_size": 8923,
+                "encrypted_size": 92114,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765449047.826983
+            },
+            {
+                "image": "hidd3.png",
+                "random_password": "vjr5iwdITYmLRJeKiVuv",
+                "timestamp": "2025-12-11 15:45:59",
+                "original_size": 8300353,
+                "encrypted_size": 51270973,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765449959.674028
+            },
+            {
+                "image": "hid432.png",
+                "random_password": "OHEXQX687fHy0U65P0UD",
+                "timestamp": "2025-12-11 15:51:24",
+                "original_size": 8300353,
+                "encrypted_size": 51270959,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765450284.716217
+            },
+            {
+                "image": "tehseenenhanced.png",
+                "random_password": "mjcL3PTPnDTxJe0WPIs9",
+                "timestamp": "2025-12-11 15:53:47",
+                "original_size": 4111294,
+                "encrypted_size": 23314723,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765450427.6865
+            },
+            {
+                "image": "hiddd45677.png",
+                "random_password": "eebcCOy2pV0j0kwLi4wc",
+                "timestamp": "2025-12-11 16:17:21",
+                "original_size": 8300353,
+                "encrypted_size": 51271024,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765451841.058567
+            }
+        ],
+        "failed_attempts": 0,
+        "account_locked": false
+    },
+    "Furqan": {
+        "password_hash": "67dd336ebcde36963cc832023eb62d86d0d0df2fc30e71c5c0cf8224fca91169e6f4336953ab88a51cb67830630fc32f0a03ea9aea0039de3f3a17f1cdc030b5",
+        "fixed_password_hash": "812f8e2c9a2af8d9bc5b588350d8a85c5f345c91bfb09a8cf09f9880033577517b976b85225e898cf28b0573f2ed89fd662824d9299ea90bff23ad1fb179c4e0",
+        "security_question": "What city were you born in?",
+        "security_answer_hash": "d762cba315f47fdc557a8ebce88f95720d9469a12f388e57fda94bcbfb1f6e863cacb430fcef596b82ddf5cd6fa35678807f80df5af1d3c3759ea9ec90ac5522",
+        "created_at": "2025-12-11 18:52:00",
+        "last_login": "2025-12-11 18:53:31",
+        "login_attempts": 0,
+        "encryption_history": [],
+        "failed_attempts": 0,
+        "account_locked": false
+    },
+    "hifsa11": {
+        "password_hash": "eb1cbd96f0dd0b7a6575c91eae7f788a9265bc61db8446a45aef62dbcd13dc52e83cf48894e090bf215ba68176f62dc51bacf08131d43cf81900e7896250836b",
+        "fixed_password_hash": "0518252e3107b6b0b57aa0e01b23e8218680564521e314cdf07259048467ea300a1a8a523dc5aa429dd1484f948fd0e72b3b530799241cb4d6c54143885f2df2",
+        "security_question": "What is your favorite book?",
+        "security_answer_hash": "8914dbc7b39b0e0716c3f14daad967e64ba8218e45da9de47d43bb17050bdc6e4c019fc23a99b6eb6c172509a252f5a0b222cd76457a5c93e4d871358dba515e",
+        "created_at": "2025-12-11 09:57:09",
+        "last_login": "2025-12-11 09:57:21",
+        "login_attempts": 0,
+        "encryption_history": [
+            {
+                "image": "enc.png",
+                "random_password": "tepdqfqdLZZvdgRXcFlo",
+                "timestamp": "2025-12-11 09:58:29",
+                "original_size": 4686,
+                "encrypted_size": 42244,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765447109.897248
+            }
+        ],
+        "failed_attempts": 0,
+        "account_locked": false
+    },
+    "hifsa111": {
+        "password_hash": "76293fe3e973abfc49b123d9f296a51845968d47b6e6cb2673ddbd39e49f8176782531a742f51b109bea20e2d11c06ab47d02ab54f2835fb40c461b23d59d359",
+        "fixed_password_hash": "0c77d5c3f308bc2a5679c6df162e365949622d0e5870f72cc3d52130b1b2747a14a2db61f4a3d9887d7000db6f0b53f471cc5a21e91df44e34a146fd40316de5",
+        "security_question": "Pet Name?",
+        "security_answer_hash": "cba5ca6c71bdb31a877d952848c9e5e48906850b032abfab6a1fca26997fb03dc6479946700d535bcc9cef7410adf88a1a629edc6e4884106ce449883d60ab57",
+        "created_at": "2025-12-11 10:15:24",
+        "last_login": "2025-12-11 10:50:23",
+        "login_attempts": 0,
+        "encryption_history": [
+            {
+                "image": "enc.png",
+                "random_password": "fod92hjV03ot9MD0",
+                "timestamp": "2025-12-11 10:19:32",
+                "original_size": 4686,
+                "encrypted_size": 42273,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765448372.161286
+            },
+            {
+                "image": "enc.png",
+                "random_password": "pVIcDD26kEKAoL39",
+                "timestamp": "2025-12-11 10:20:05",
+                "original_size": 4686,
+                "encrypted_size": 42277,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765448405.98019
+            },
+            {
+                "image": "enc.png",
+                "random_password": "SSCAxVTC6uc0Jtu4",
+                "timestamp": "2025-12-11 10:33:38",
+                "original_size": 4686,
+                "encrypted_size": 42236,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765449218.959772
+            },
+            {
+                "image": "enc.png",
+                "random_password": "WXSaKKYP6s4RZj47",
+                "timestamp": "2025-12-11 10:45:01",
+                "original_size": 8982,
+                "encrypted_size": 81462,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765449901.630468
+            }
+        ],
+        "failed_attempts": 0,
+        "account_locked": false
+    },
+    "hifsa1212": {
+        "password_hash": "212dd4225ff5f60ecb0751548aa8d0eaa149cb88de5e4875a5f5724f27ce19a4d6538d2a3ac40e6d30a1a2432556220544c17d4fd3fcb85ec6f235bb25125642",
+        "fixed_password_hash": "a99fd962d8921e9c42542ac81194071217a65c4cac3e4e3cb11c6beb22ca9386ec9c9d049e0c99cb8cc7c0b9c50f9b96382b7ad99460f5ee41a202ddd5fa7f77",
+        "security_question": "Pet Name?",
+        "security_answer_hash": "13727ed3245f0d856346826ca4181ddb8f36c7054ea9394638c7fc6a94a3c89933425cf22cdc4a4a1f51d2ab488c1da0801f3a6ba454aa816cdbdd555a87ac24",
+        "created_at": "2025-12-11 10:59:48",
+        "last_login": "2025-12-11 11:00:00",
+        "login_attempts": 0,
+        "encryption_history": [],
+        "failed_attempts": 0,
+        "account_locked": false
+    },
+    "ayesha": {
+        "password_hash": "a88fdd68afc170a94b2172ab8bf6d0e6e679c00c1febf2c7c3f012454d001043d1b1a46b74782f86ddcc8859a9c75e7337f11d71db03cdde79f77a2f19e955e0",
+        "fixed_password_hash": "4d4f696eba5b14db919fd1d5fea68cdc552bc9903bdb559a212a8b6bfcc1f1725eef3765011f94e6d2604afe15664242509e7f4cd6da8a9640d4e14b8f93ae0a",
+        "security_question": "Pet Name?",
+        "security_answer_hash": "ce485b62838f956a0fa5038dd06e0fc4175b804627c90614771770e6b08cb6da49588853f07c48f5c313265f869931db32abaa0795601982d69bf7e54c81577d",
+        "created_at": "2025-12-11 11:08:24",
+        "last_login": "2025-12-11 11:50:37",
+        "login_attempts": 0,
+        "encryption_history": [
+            {
+                "image": "enc4.png",
+                "random_password": "8c418c64b9cebd84",
+                "timestamp": "2025-12-11 11:28:44",
+                "original_size": 12,
+                "encrypted_size": 120,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765452524.859871
+            },
+            {
+                "image": "ei1.png",
+                "random_password": "397db3575d64c23a",
+                "timestamp": "2025-12-11 11:39:44",
+                "original_size": 5,
+                "encrypted_size": 100,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765453184.743794
+            },
+            {
+                "image": "C:/Users/malik/OneDrive/Desktop/ei3.png",
+                "random_password": "83c00546ad21d5c2",
+                "timestamp": "2025-12-11 11:46:35",
+                "original_size": 9,
+                "encrypted_size": 100,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765453595.023933
+            }
+        ],
+        "failed_attempts": 0,
+        "account_locked": false
+    },
+    "hifsa": {
+        "password_hash": "8ff57f8f251156b2cb44b311560f89b2b81e232a0d979fb4288e268f0b0945bcb96095d011c618534e3af06780f6223bfa0803718c6503486ed1456c416996b3",
+        "fixed_password_hash": "82da14d1efc302a0838596a653bfa7fb99c6f8f4efc6e1dc827440940cd289029c987e1f239801eae161424be5d11e5d97ea520b8456633628296722f438fe22",
+        "security_question": "Pet Name?",
+        "security_answer_hash": "349687b8df15876c755c727b9132bb338f2b0e3d38adf9099482a9ea68c9fda76a4bf9bc1df2dce1d3ebda21d996020e11e92896967b4571896bc7c1bee00cf4",
+        "created_at": "2025-12-11 12:46:54",
+        "last_login": "2025-12-11 12:51:50",
+        "login_attempts": 0,
+        "encryption_history": [
+            {
+                "image": "C:/Users/malik/OneDrive/Desktop/e1.png",
+                "random_password": "7092f58b10df7f2a",
+                "timestamp": "2025-12-11 12:48:35",
+                "original_size": 10,
+                "encrypted_size": 100,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765457315.244914
+            },
+            {
+                "image": "C:/Users/malik/OneDrive/Desktop/e1.png",
+                "random_password": "17b3698eb3ffac88",
+                "timestamp": "2025-12-11 12:52:33",
+                "original_size": 6,
+                "encrypted_size": 100,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1765457553.183935
+            }
+        ],
+        "failed_attempts": 0,
+        "account_locked": false
+    },
+    "admin": {
+        "password_hash": "f730e1d396fd2405eba4537ea4e51c313c9f2aa05b969ec28070eebfe9b14a0bdb4b54c727478e62c67c6995e76726c9dfb71449f477d02eb0c3599f4d2c89a8",
+        "fixed_password_hash": "bee37e139898e6f216d83dae8755bf849cd6e2f7972627c312f09c7bf9e3c966215455baadbbe1c0650a9f888d54cf10a608c6c88dc66a5f4f416e4a4c22820d",
+        "security_question": "Pet Name?",
+        "security_answer_hash": "ae6f961ed0c63ba203d0c67e08068f70fe2d893d10f6e30e7c594d305811e3608d3720d230544d2213675ae1005236248026c2e1bcdd6228e4b5cc3af1a78bad",
+        "created_at": "2026-04-23 13:51:07",
+        "last_login": "2026-04-25 02:11:26",
+        "login_attempts": 0,
+        "encryption_history": [
+            {
+                "image": "C:/Users/jahan/Downloads/stegtest.png",
+                "random_password": "a2dc3a143b3733cf",
+                "timestamp": "2026-04-23 13:53:10",
+                "original_size": 41,
+                "encrypted_size": 140,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1776934390.9472
+            },
+            {
+                "image": "C:/Users/jahan/Downloads/stegtest1.png",
+                "random_password": "7fe7c4cfd58ac142",
+                "timestamp": "2026-04-23 14:03:11",
+                "original_size": 23,
+                "encrypted_size": 120,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1776934991.735019
+            },
+            {
+                "image": "C:/Users/jahan/Downloads/stegtest2.png",
+                "random_password": "123d2cc04b678cc0",
+                "timestamp": "2026-04-23 14:24:28",
+                "original_size": 23,
+                "encrypted_size": 120,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1776936268.049592
+            },
+            {
+                "image": "C:/Users/jahan/Downloads/stegtest.png",
+                "random_password": "3dad72528e171848",
+                "timestamp": "2026-04-23 21:41:44",
+                "original_size": 5,
+                "encrypted_size": 100,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1776962504.784364
+            },
+            {
+                "image": "C:/Users/jahan/Downloads/INFOSEC-STEG/INFOSEC-STEG/new.png",
+                "random_password": "d74f9fd8574cc0da",
+                "timestamp": "2026-04-24 00:30:14",
+                "original_size": 2416,
+                "encrypted_size": 3320,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1776972614.988465
+            },
+            {
+                "image": "C:/Users/jahan/Downloads/new1.png",
+                "random_password": "bd5f4cc1339545b8",
+                "timestamp": "2026-04-25 02:13:31",
+                "original_size": 54,
+                "encrypted_size": 164,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1777065211.673616
+            },
+            {
+                "image": "C:/Users/jahan/Downloads/new1.png",
+                "random_password": "718ddf9b7697fae6",
+                "timestamp": "2026-04-25 02:16:02",
+                "original_size": 54,
+                "encrypted_size": 164,
+                "algorithm": "LSB",
+                "status": "Success",
+                "encryption_time": 1777065362.405363
+            }
+        ],
+        "failed_attempts": 0,
+        "account_locked": false
+    }
+}
